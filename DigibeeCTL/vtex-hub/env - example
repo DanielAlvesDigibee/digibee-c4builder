@@ -1,0 +1,5 @@
+SECRET_KEY="1234567890abcdefghjklm=="
+AUTH_KEY=  "1234567890abcdefghjk"
+
+GRAPHQL_API_KEY="1234567890abcdefghjklmnopqrstuvwxyz"
+GRAPHQL_TOKEN="1234567890abcdefghjklmnopqrstuvwxyz.1234567890abcdefghjklmnopqrstuvwxyz.1234567890abcdefghjklmnopqrstuvwxyz"

@@ -1,0 +1,16 @@
+{
+  "name": "vtex-hub-c4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pipeline-navigator.js",
+  "scripts": {
+    "run": "node app.js",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "jsonpath": "^1.1.1"
+  }
+}

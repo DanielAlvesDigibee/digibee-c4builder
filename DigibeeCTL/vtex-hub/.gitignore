@@ -1,0 +1,7 @@
+.env
+data/
+node_modules/
+c4_out/
+c4_src/
+*.json
+!package.json
